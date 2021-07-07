@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1082089689185",
+    "firebase_url": "https://page-b6096-default-rtdb.firebaseio.com",
+    "project_id": "page-b6096",
+    "storage_bucket": "page-b6096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082089689185:android:27cc7ce58b298280dd1a20",
+        "android_client_info": {
+          "package_name": "com.PageChat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082089689185-9536l6n2chmfvbgpuhb3tfnqj7jm0qga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIw31X7TmByO8rqbu0Zmxj8khP2ETupCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082089689185-9536l6n2chmfvbgpuhb3tfnqj7jm0qga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082089689185:android:b0455bf56c5d05c8dd1a20",
+        "android_client_info": {
+          "package_name": "com.android.wat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082089689185-9536l6n2chmfvbgpuhb3tfnqj7jm0qga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIw31X7TmByO8rqbu0Zmxj8khP2ETupCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082089689185-9536l6n2chmfvbgpuhb3tfnqj7jm0qga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082089689185:android:4edc859b07835f54dd1a20",
+        "android_client_info": {
+          "package_name": "com.openeasychat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082089689185-9536l6n2chmfvbgpuhb3tfnqj7jm0qga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIw31X7TmByO8rqbu0Zmxj8khP2ETupCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082089689185-9536l6n2chmfvbgpuhb3tfnqj7jm0qga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

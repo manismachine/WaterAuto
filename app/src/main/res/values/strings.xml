@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">wat</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">ON</string>
+    <string name="previous">OFF</string>
+
+    <string name="hello_first_fragment">UP value to a1 is: </string>
+    <string name="hello_second_fragment">Down value to a1 is: </string>
+</resources>
